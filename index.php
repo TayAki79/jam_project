@@ -8,6 +8,6 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  Hello applicants! How are you doing?
+  Hello applicants! How are you doing? This is the second test!
 </body>
 </html>
